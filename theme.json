@@ -1,0 +1,79 @@
+{
+  "color": {
+    "window_bg_color": ["gray70", "gray10"],
+    "button": ["gray50", "gray50"],
+    "button_hover": ["gray80", "gray35"],
+    "button_border": ["gray30", "gray50"],
+    "checkbox_border": ["gray40", "gray40"],
+    "checkmark": ["white", "white"],
+    "entry": ["white", "white"],
+    "entry_border": ["gray70", "gray70"],
+    "entry_placeholder_text": ["gray52", "gray52"],
+    "frame_border": ["#99BEFF", "gray1"],
+    "frame_low": ["gray90", "gray15"],
+    "frame_high": ["gray85", "gray20"],
+    "label": ["gray15", "gray60"],
+    "text": ["gray12", "gray60"],
+    "text_disabled": ["gray60", "gray60"],
+    "text_button_disabled": ["gray40", "gray40"],
+    "progressbar": ["gray15", "gray0"],
+    "progressbar_progress": ["gray15", "#395E9C"],
+    "progressbar_border": ["gray", "gray"],
+    "slider": ["gray65", "gray65"],
+    "slider_progress": ["#748BB3", "#748BB3"],
+    "slider_button": ["#748BB3", "#748BB3"],
+    "slider_button_hover": ["#36719F", "#36719F"],
+    "switch": ["gray70", "gray35"],
+    "switch_progress": ["gray30", "#395E9C"],
+    "switch_button": ["gray38", "gray70"],
+    "switch_button_hover": ["gray30", "gray90"],
+    "optionmenu_button": ["#36719F", "#144870"],
+    "optionmenu_button_hover": ["#27577D", "#203A4F"],
+    "combobox_border": ["gray70", "gray32"],
+    "combobox_button_hover": ["#6E7174", "#7A848D"],
+    "dropdown_color": ["gray15", "gray20"],
+    "dropdown_hover": ["gray15", "gray28"],
+    "dropdown_text": ["gray15", "#DCE4EE"],
+    "scrollbar_button": ["gray15", "gray15"],
+    "scrollbar_button_hover": ["gray15", "gray15"]
+  },
+  "text": {
+    "macOS": {
+      "font": "Batang",
+      "size": -15
+    },
+    "Windows": {
+      "font": "Roboto",
+      "size": -13
+    },
+    "Linux": {
+      "font": "Roboto",
+      "size": -13
+    }
+  },
+  "shape": {
+    "button_corner_radius": 25,
+    "button_border_width": 1,
+    "checkbox_corner_radius": 3,
+    "checkbox_border_width": 3,
+    "radiobutton_corner_radius": 1000,
+    "radiobutton_border_width_unchecked": 3,
+    "radiobutton_border_width_checked": 6,
+    "entry_border_width": 2,
+    "frame_corner_radius": 10,
+    "frame_border_width": 0,
+    "label_corner_radius": 10,
+    "progressbar_border_width": 2,
+    "progressbar_corner_radius": 1000,
+    "slider_border_width": 6,
+    "slider_corner_radius": 20,
+    "slider_button_length": 0,
+    "slider_button_corner_radius": 1000,
+    "switch_border_width": 3,
+    "switch_corner_radius": 1000,
+    "switch_button_corner_radius": 1000,
+    "switch_button_length": 0,
+    "scrollbar_corner_radius": 1000,
+    "scrollbar_border_spacing": 4
+  }
+}
