@@ -2,7 +2,7 @@
 An interactive way to draw with Fourier Series
 
 
-###Packages 
+### Packages 
 
 - tkinter
 - numpy 
